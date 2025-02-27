@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ahk3695
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ABDULHAMEED KALADAGI
+- 👀 I’m interested in FULL STACK WEB DEVELOPER
+- 🌱 I’m currently learning new things
+- 💞️ I’m looking for a job related to IT
+- 📫 How to reach me using Email id- ahk3295@gmail.com
 
 <!---
 ahk3695/ahk3695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
